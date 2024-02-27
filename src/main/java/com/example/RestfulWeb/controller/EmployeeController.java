@@ -13,7 +13,6 @@ public class EmployeeController {
     String add(){
         return "sum is";
     }
-
     @GetMapping("/weather/{cityName}")
     String getWeather(@PathVariable String cityName){
         return cityName +" weather is good";
