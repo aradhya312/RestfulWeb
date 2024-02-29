@@ -12,7 +12,4 @@ public class RestfulWebApplication {
 
 		System.out.println( "This is Aditi's branch");
 	}
-
-
-
 }
